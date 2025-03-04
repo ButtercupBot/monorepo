@@ -1,0 +1,14 @@
+{
+  "name": "monorepo",
+  "version": "2.0.0dev",
+  "private": true,
+  "workspaces": [
+    "packages/api"
+  ],
+  "devDependencies": {
+    "api": "workspace:*"
+  },
+  "trustedDependencies": [
+    "protobufjs"
+  ]
+}

@@ -1,0 +1,6 @@
+[submodule "packages/api"]
+	path = packages/api
+	url = https://github.com/buttercupbot/api
+[submodule "packages/dashboard"]
+	path = packages/dashboard
+	url = https://github.com/buttercupbot/dashboard
